@@ -1,5 +1,9 @@
-<img align="right"> alt="coding" width="250" src="<img align="right"> alt="coding" width="400" src="<img width="250" height="420" alt="image" src="https://github.com/user-attachments/assets/25675fe5-6f5e-43c3-beb4-4c7e93abf5f3" />""
+<img src="<img width="1440" height="296" alt="image" src="https://github.com/user-attachments/assets/8de74cc9-5ae2-49c7-a9b9-cb11be9546c8" />
+"
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
+<img src="https://github.com/user-attachments/assets/25675fe5-6f5e-43c3-beb4-4c7e93abf5f3"
+     alt="coding"
+     width="400">
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshikumari56941-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshikumari56941-coder" /> </p>
 
