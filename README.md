@@ -1,4 +1,4 @@
-<img src="<img width="1440" height="296" alt="image" src="https://github.com/user-attachments/assets/8de74cc9-5ae2-49c7-a9b9-cb11be9546c8" />
+<img width="1440" height="296" alt="image" src="https://github.com/user-attachments/assets/8de74cc9-5ae2-49c7-a9b9-cb11be9546c8" />
 "
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <img src="https://github.com/user-attachments/assets/25675fe5-6f5e-43c3-beb4-4c7e93abf5f3"
