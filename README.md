@@ -1,5 +1,3 @@
-![logo](<img width="800" height="474" alt="image" src="https://github.com/user-attachments/assets/e29d8580-ee65-43d1-bdb8-fd8596106274" />
-)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"> alt="coding" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a0c8b908-a1de-474f-a368-3c2235226517" />">
