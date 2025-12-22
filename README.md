@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"> alt="coding" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a0c8b908-a1de-474f-a368-3c2235226517" />">
+<
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshikumari56941-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshikumari56941-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshikumari56941-coder" alt="sakshikumari56941-coder" /></a> </p>
@@ -22,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshikumari56941-coder&" alt="sakshikumari56941-coder" /></p>
 
-S
