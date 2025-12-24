@@ -1,4 +1,5 @@
-<img width="2500" height="850" alt="image" src="https://github.com/user-attachments/assets/84fd6c72-33a3-4503-9a44-5298c3b905b5" />
+<img width="980" height="229" alt="image" src="https://github.com/user-attachments/assets/3b1ad0c2-0835-4fa1-82f3-d5bf050b28d2" />
+
 
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
